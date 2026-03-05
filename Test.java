@@ -1,8 +1,8 @@
-class Main {
+class Test {
 
   public static void main(String[] args) {
     
-    int first = 10;
+    int first = 25;
     int second = 20;
 
     //test2
